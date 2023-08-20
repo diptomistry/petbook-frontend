@@ -1,0 +1,3 @@
+[submodule "petbook-backend"]
+	path = petbook-backend
+	url = https://github.com/diptomistry/petbook-backend.git
